@@ -1,0 +1,1 @@
+This repository contains all my Java programs, including basic to advanced concepts. It includes practice exercises, assignments, mini-projects, and programs written during my learning journey of Java programming.
